@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot01unkngoog_0110.png"; bbox 0 0 4509 5834; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 534 342 3645 494">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 534 342 3645 494">
+     <span class='ocr_line' id='line_1_1' title="bbox 534 342 3645 494; baseline -0.009 -58"><span class='ocrx_word' id='word_1_1' title='bbox 534 345 1084 494; x_wconf 46' lang='lat' dir='ltr'><em>awti-jimna.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 3208 342 3621 410; x_wconf 66' lang='lat' dir='ltr'><em>CCC&#39;CM</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 3637 399 3645 408; x_wconf 92' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 628 554 3666 4797">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 628 554 3666 4797">
+     <span class='ocr_line' id='line_1_2' title="bbox 628 554 3666 4797; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 628 554 3666 4797; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1115 5034 3664 5266">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1115 5034 3664 5266">
+     <span class='ocr_line' id='line_1_3' title="bbox 1115 5034 3110 5211; baseline -0.017 -39"><span class='ocrx_word' id='word_1_5' title='bbox 1115 5034 2025 5211; x_wconf 34' lang='lat' dir='ltr'><em>&lt;ss-sarisam&amp;</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2099 5100 2542 5154; x_wconf 57' lang='lat' dir='ltr'><em>amna</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2560 5057 2683 5149; x_wconf 56' lang='lat' dir='ltr'><em>dd.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2743 5054 2906 5144; x_wconf 62' lang='lat' dir='ltr'><em>stt:</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2938 5062 3017 5140; x_wconf 77' lang='lat' dir='ltr'><em>C.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 3074 5054 3110 5084; x_wconf 58' lang='lat'><em>‘⁵‘</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 3218 5209 3664 5266; baseline -0.013 -4"><span class='ocrx_word' id='word_1_11' title='bbox 3218 5213 3300 5266; x_wconf 66' lang='lat' dir='ltr'><em>a.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 3341 5209 3560 5261; x_wconf 50' lang='lat' dir='ltr'><em>.1&gt;a...‚-.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 3594 5232 3664 5257; x_wconf 47' lang='lat' dir='ltr'><em>a.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 491 5233 878 5325">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 491 5233 878 5325">
+     <span class='ocr_line' id='line_1_5' title="bbox 491 5233 878 5325; baseline 0.005 -3"><span class='ocrx_word' id='word_1_14' title='bbox 491 5233 716 5323; x_wconf 46' lang='lat' dir='ltr'><em>&#39;am-u.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 764 5261 878 5325; x_wconf 55' lang='lat' dir='ltr'><em>Al.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 4486 4921 4489 5502">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 4486 4921 4489 5502">
+     <span class='ocr_line' id='line_1_6' title="bbox 4486 4921 4489 5502; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 4486 4921 4489 5502; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

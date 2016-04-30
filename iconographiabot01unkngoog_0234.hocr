@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot01unkngoog_0234.png"; bbox 0 0 4509 5834; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 634 264 3640 5191">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 634 264 3640 5191">
+     <span class='ocr_line' id='line_1_1' title="bbox 634 264 3640 5191; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 634 264 3640 5191; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 562 281 3705 438">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 562 281 3705 438">
+     <span class='ocr_line' id='line_1_2' title="bbox 562 281 3705 438; baseline -0.004 -55"><span class='ocrx_word' id='word_1_2' title='bbox 562 288 1278 430; x_wconf 52' lang='lat' dir='ltr'><em>r‘e‘yfiwdmffm„</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1870 411 1873 414; x_wconf 12' lang='grc' dir='ltr'><strong>Δ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2018 297 2159 438; x_wconf 38' lang='grc' dir='ltr'><em>,ιζ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2216 281 2239 345; x_wconf 47' lang='lat'>³</span> <span class='ocrx_word' id='word_1_6' title='bbox 3263 310 3705 373; x_wconf 44' lang='lat' dir='ltr'><em>fessam:</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3194 5393 4096 5572">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3194 5393 4096 5572">
+     <span class='ocr_line' id='line_1_3' title="bbox 3194 5393 4096 5572; baseline 0 -54"><span class='ocrx_word' id='word_1_7' title='bbox 3194 5467 3451 5533; x_wconf 53' lang='lat' dir='ltr'><em>Qum</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 3480 5467 3545 5533; x_wconf 73' lang='lat' dir='ltr'><em>by</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 3567 5393 4096 5572; x_wconf 71' lang='lat' dir='ltr'>Google</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

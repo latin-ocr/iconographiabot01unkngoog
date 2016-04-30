@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot01unkngoog_0194.png"; bbox 0 0 4509 5834; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 605 252 3833 5034">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 605 252 3833 5034">
+     <span class='ocr_line' id='line_1_1' title="bbox 605 252 3833 5034; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 605 252 3833 5034; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1252 5073 2960 5201">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1252 5073 2960 5201">
+     <span class='ocr_line' id='line_1_2' title="bbox 1252 5073 2960 5201; baseline 0.009 -12"><span class='ocrx_word' id='word_1_2' title='bbox 1252 5073 1867 5190; x_wconf 42' lang='lat' dir='ltr'><em>amsaam</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1970 5110 2521 5200; x_wconf 50' lang='lat' dir='ltr'><em>&amp;hamb-fas.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2610 5124 2729 5201; x_wconf 74' lang='lat' dir='ltr'><em>L.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2772 5112 2820 5151; x_wconf 36' lang='grc' dir='ltr'><strong>ᾗ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2952 5145 2960 5155; x_wconf 83' lang='grc'><strong>“</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 548 5222 875 5272">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 548 5222 875 5272">
+     <span class='ocr_line' id='line_1_3' title="bbox 548 5222 875 5272; baseline 0.015 -5"><span class='ocrx_word' id='word_1_7' title='bbox 548 5222 726 5268; x_wconf 68' lang='lat' dir='ltr'><em>Hem-2.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 766 5222 875 5272; x_wconf 60' lang='lat' dir='ltr'><em>»ld</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

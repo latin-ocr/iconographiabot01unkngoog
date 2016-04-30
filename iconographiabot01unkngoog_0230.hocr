@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot01unkngoog_0230.png"; bbox 0 0 4509 5834; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 535 225 3719 364">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 535 225 3719 364">
+     <span class='ocr_line' id='line_1_1' title="bbox 535 225 3719 364; baseline 0.007 -57"><span class='ocrx_word' id='word_1_1' title='bbox 535 225 925 364; x_wconf 51' lang='lat' dir='ltr'><em>6237qu</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 935 245 1129 312; x_wconf 50' lang='lat' dir='ltr'><em>(Aa.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 3289 275 3719 331; x_wconf 61' lang='lat' dir='ltr'><em>ccchA‘a.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 424 382 3700 4838">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 424 382 3700 4838">
+     <span class='ocr_line' id='line_1_2' title="bbox 424 382 3700 4838; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 424 382 3700 4838; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1063 4999 2561 5187">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1063 4999 2561 5187">
+     <span class='ocr_line' id='line_1_3' title="bbox 1063 4999 2561 5187; baseline -0.002 -74"><span class='ocrx_word' id='word_1_5' title='bbox 1063 4999 1587 5113; x_wconf 37' lang='lat' dir='ltr'><em>‘fast-anam!</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1631 5028 2163 5187; x_wconf 47' lang='lat' dir='ltr'><em>(qull‘almf.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2210 5041 2455 5115; x_wconf 63' lang='lat' dir='ltr'><em>Alb.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2521 5014 2561 5043; x_wconf 45' lang='grc' dir='ltr'><em>ἰ’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 445 5184 3682 5233">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 445 5184 3682 5233">
+     <span class='ocr_line' id='line_1_4' title="bbox 445 5184 3682 5233; baseline 0 -2"><span class='ocrx_word' id='word_1_9' title='bbox 445 5192 615 5232; x_wconf 65' lang='lat' dir='ltr'><em>AMA</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 646 5184 754 5231; x_wconf 52' lang='grc' dir='ltr'><em>ΛΔ.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 3297 5188 3380 5231; x_wconf 22' lang='grc' dir='ltr'><em>α(</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 3405 5188 3502 5232; x_wconf 54' lang='grc' dir='ltr'><em>,ὡς</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 3557 5215 3589 5233; x_wconf 74' lang='grc'><em>,-.</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 3621 5214 3682 5233; x_wconf 51' lang='lat' dir='ltr'><em>m.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 3194 5393 4095 5572">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 3194 5393 4095 5572">
+     <span class='ocr_line' id='line_1_5' title="bbox 3194 5393 4095 5572; baseline 0 -54"><span class='ocrx_word' id='word_1_15' title='bbox 3194 5467 3451 5533; x_wconf 47' lang='lat' dir='ltr'><em>mmm</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 3480 5467 3545 5533; x_wconf 66' lang='lat' dir='ltr'><em>by</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 3567 5393 4095 5572; x_wconf 66' lang='lat' dir='ltr'>Google</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
